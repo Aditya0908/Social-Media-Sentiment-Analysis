@@ -1,8 +1,8 @@
-# TextSentimentAnalysis
+# Social Media Sentiment Analysis
 
 ### Overview
 
-Farmi Sentiment Analysis Model is a project focused on predicting sentiments (negative, positive, neutral) from social media captions. Leveraging Natural Language Processing (NLP) and machine learning techniques, the model aims to provide insights into the sentiment conveyed in textual content.
+Social Media Sentiment Analysis Model is a project focused on predicting sentiments (negative, positive, neutral) from social media captions. Leveraging Natural Language Processing (NLP) and machine learning techniques, the model aims to provide insights into the sentiment conveyed in textual content.
 
 ---
 
